@@ -1,16 +1,17 @@
-## Hi there 👋
+<img src="./assets/profile-banner.svg" alt="Adam Aouragh — Data science, databases, and systems" width="100%">
 
-<!--
-**aouraghadam70-gif/aouraghadam70-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+I'm a university student in Morocco interested in data science. I'm building my foundation in SQL, Linux, and computer networking through hands-on coursework. I'm looking for a data science internship where I can learn from a team and contribute to real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m working on
+
+| Area | What I’m practicing |
+| --- | --- |
+| Databases | Writing SQL queries and designing tables with keys and constraints in Oracle APEX |
+| Linux and systems | Working in Ubuntu and learning how processes communicate |
+| Computer networks | Inspecting Ethernet frames and packet captures in Wireshark |
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/adam-aouragh/) · [GitHub repositories](https://github.com/aouraghadam70-gif?tab=repositories)
