@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title">
+  <title id="title">Adam Aouragh — Data science, databases, and systems</title>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#101c35"/>
+      <stop offset="1" stop-color="#071323"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse" x="12" y="20">
+      <path d="M 40 0 H 0 V 40" fill="none" stroke="#213b50" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="358" rx="26" fill="url(#background)" stroke="#29455b" stroke-width="2"/>
+  <rect x="746" y="42" width="403" height="276" rx="16" fill="url(#grid)" stroke="#274055"/>
+  <path d="M 779 247 H 835 L 871 184 H 930 L 966 210 H 1023 L 1068 118 H 1116" fill="none" stroke="#56e2c6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 779 262 H 868 L 910 236 H 968 L 1003 258 H 1055 L 1092 217 H 1116" fill="none" stroke="#6594f1" stroke-width="3" stroke-linecap="round"/>
+  <g fill="#0b192a" stroke="#56e2c6" stroke-width="4">
+    <circle cx="835" cy="247" r="7"/>
+    <circle cx="871" cy="184" r="7"/>
+    <circle cx="1023" cy="210" r="7"/>
+    <circle cx="1068" cy="118" r="7"/>
+  </g>
+  <rect x="66" y="99" width="48" height="5" rx="2.5" fill="#56e2c6"/>
+  <g font-family="Verdana, DejaVu Sans, sans-serif">
+    <text x="62" y="191" font-size="73" font-weight="bold" fill="#f2f7ff">Adam Aouragh</text>
+    <text x="66" y="247" font-size="30" fill="#a6e9de">Data science · Databases · Systems</text>
+  </g>
+</svg>
